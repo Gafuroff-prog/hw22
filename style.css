@@ -1,0 +1,543 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+*{
+    font-family: "Mulish", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img{
+    margin-top: 41px;
+    margin-left: 131px;
+    width: 41px;
+    height: 41px;
+}
+.navbar{
+    background-color: white;
+    
+}
+.h1{
+    font-size: 18px;
+    margin-top: -32px;
+    margin-left: 183px;
+   
+}
+.Home{
+    color: black;  
+    margin-left: 810px;
+    margin-top: -20px;
+    font-weight: 800;
+}
+
+.doc{
+    margin-left: 520px;
+    margin-top: -20px;
+    justify-content: space-evenly;
+    align-items: end;
+    display: flex;
+    gap: 1000px;
+    color: gray;
+}
+.app{
+    margin-left: 720px;
+    margin-top: -20px;
+    justify-content: space-evenly;
+    align-items: end;
+    display: flex;
+    gap: 1000px;
+    color: gray;
+}
+.test{
+    margin-left: 910px;
+    margin-top: -20px;
+    justify-content: space-evenly;
+    align-items: end;
+    display: flex;
+    gap: 1000px;
+    color: gray;
+}
+.info{
+    margin-left: 1120px;
+    margin-top: -20px;
+    justify-content: space-evenly;
+    align-items: end;
+    display: flex;
+    gap: 1000px;
+    color: gray;
+}
+.h2{
+    margin-left: 130px;
+    margin-top: 140px;
+    font-size: 35px;
+}
+.text{
+    margin-left: 130px;
+    margin-top: 10px;
+    width: 360px;
+}
+.button{
+    width: 127px;
+    text-align: center;
+    align-items: center;
+    
+    height: 49px;
+    border-radius: 55px;
+    border: 1px solid blue;
+    background-color: #E7E7E7;
+    color: black;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.button:hover{
+     border: 0px solid blue;
+     background-color: blue;
+     color: white;
+     border: 1px solid blue;
+     text-align: center;
+}
+.Consult{
+    font-weight: 700;
+    font-size: 15px;
+    margin-top:12px;
+}
+.img1{
+    width: 500px;
+    height: 400px;
+    margin-left: 750px;
+    margin-top: -300px;
+}
+.h4{
+    color: black;
+    font-size: 35px;
+    font-weight: 500;
+    text-align: center;
+    margin-top: 70px;
+}
+.text2{
+    color: gray;
+    text-align: center;
+    width: 850px;
+    margin-left: 250px;
+    margin-top: 40px;
+}
+.box1{
+    background-color:#E7E7E7;
+    border: 0px solid;
+    color: black;
+    border-radius: 15px;
+    height: 300px;
+    width: 280px;
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.h5{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: -55px;
+    margin-top: 50px;
+}
+.img2{
+    width: 120px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.text3{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 75px;
+}
+.box1:hover{
+    background-color: blue;
+    border: 0px solid;
+    color: white;
+}
+.box2{
+    background-color:#E7E7E7;
+    border: 0px solid;
+    color: black;
+    border-radius: 15px;
+    height: 300px;
+    width: 280px;
+    margin-top:-300px;
+    
+    margin-left: 540px;
+    
+}
+.img3{
+    width: 90px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.h6{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+.text4{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 17px;
+}
+.box2:hover{
+    background-color: blue;
+    border: 0px solid;
+    color: white;
+}
+.box3{
+    background-color:#E7E7E7;
+    border: 0px solid;
+    color: black;
+    border-radius: 15px;
+    height: 300px;
+    width: 280px;
+    margin-top:-300px;
+    margin-left: 880px;
+}
+.img4{
+    width: 90px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.h7{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+.text5{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 17px;
+    width: 250px
+}
+.box3:hover{
+    background-color: blue;
+    border: 0px solid;
+    color: white;
+}
+.box4{
+    background-color:#E7E7E7;
+    border: 0px solid;
+    color: black;
+    border-radius: 15px;
+    height: 300px;
+    width: 280px;
+    margin-top:30px;
+    margin-left: 201px;
+    margin-bottom: 100px;
+}
+.img5{
+    width: 90px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.h8{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 50px;
+}
+.text6{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 17px;
+    width: 250px
+}
+.box4:hover{
+    background-color: blue;
+    border: 0px solid;
+    color: white;
+}
+.box5{
+    background-color:#E7E7E7;
+    border: 0px solid;
+    color: black;
+    border-radius: 15px;
+    height: 300px;
+    width: 280px;
+    margin-top:-400px;
+    margin-left: 542px;
+    margin-bottom: 130px;
+}
+.img6{
+    width: 90px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.h9{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 75px;
+}
+.text7{
+    margin-left: 20px;
+    font-size: 12px;
+    margin-top: 27px;
+    width: 250px
+}
+.box5:hover{
+    background-color: blue;
+    border: 0px solid;
+    color: white;
+}
+.box6{
+    background-color:#E7E7E7;
+    border: 0px solid;
+    color: black;
+    border-radius: 15px;
+    height: 300px;
+    width: 280px;
+    margin-top:-430px;
+    margin-left: 885px;
+    margin-bottom: 150px;
+}
+.h10{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 40px;
+}
+.text8{
+    margin-left: 20px;
+    font-size: 12px;
+    width: 250px;
+    margin-top: 19px;
+}
+.img7{
+    width: 90px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.box6:hover{
+    background-color: blue;
+    border: 0px solid;
+    color: white;
+}
+.button2{
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 40px;
+    width: 170px;
+    height: 50px;
+    margin-left: 590px;
+    margin-top: -100px;
+    text-align: center;
+    color: blue;
+    font-size: 18px;
+}
+.learn{
+    margin-top: 12px;
+}
+.button2:hover{
+    background-color: blue;
+    border: 1px solid;
+    color: white;
+}
+.h11{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 32px;
+}
+.img8{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 230px;
+}
+.leading{
+    margin-left: 750px;
+    margin-top: -300px;
+}
+.text9{
+    width: 230px;
+    margin-left:750px;
+    margin-top: 40px;
+}
+.btn2{
+    background-color: white;
+    border: 1px solid blue;
+    border-radius: 40px;
+    width: 170px;
+    height: 50px;
+    margin-left: 740px;
+    margin-top:30px;
+    text-align: center;
+    color: blue;
+    font-size: 18px;
+}
+.btn2:hover{
+    background-color: blue;
+    border: 1px solid;
+    color: white;
+}
+.h12{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.img9{
+    margin-left: 180px;
+    margin-top: 50px;
+    width: 300px;
+    height: 280px;
+    border: 10px solid #FFFFFF;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+
+}
+.img99{
+    width: 280px;
+   
+}
+.h13{
+    margin-top: 30px;
+    width: 251px;
+ }
+ .text10{
+    width: 266px;
+    margin-top: 15px;
+
+ }
+.img10{
+    margin-left: 510px;
+    margin-top: -279px;
+    width: 300px;
+    height: 280px;
+    border: 10px solid #FFFFFF;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    
+}
+.image10{
+    width: 280px;
+}
+.h14{
+    margin-top: 30px;
+    width: 251px;
+}
+.text11{
+    width: 266px;
+    margin-top: 15px;
+}
+.img11{
+    margin-left: 840px;
+    margin-top: -279px;
+    width: 300px;
+    height: 280px;
+    border: 10px solid #FFFFFF;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+}
+.image11{
+    width: 280px;
+}
+.h15{
+    margin-top: 30px;
+    width: 251px;
+}
+.text12{
+    width: 266px;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color: rgba(64, 137, 237, 1);
+   padding-top: 10px;
+    
+}
+a::after{
+    content: '->';
+    margin-left: 10px;
+}
+.btn3{
+    width: 150px;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    border: 1px solid blue;
+    border-radius: 50px;
+    background-color: white;
+    color: blue;
+    margin-top: 150px;
+    margin-left: 555px;
+}
+.all{
+    margin-top: 10px;
+}
+.btn3:hover{
+    border: 1px solid blue;
+    color: white;
+    background-color: blue;
+    
+}
+.footer{
+    background-color:#5a98f2;
+    width: 1349px;
+    height: 300px;
+    color: white;
+    margin-top: 200px;
+}
+.logo2{
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.logoo2{
+    margin-top: -34px;
+    margin-left: 180px;
+    color: white;
+}
+.text15{
+    width: 250px;
+    margin-left: 130px;
+    margin-top: 30px;
+    color: gainsboro;
+}
+.company{
+    margin-left: 660px;
+    margin-top: -130px;
+}
+.about{
+    color: gainsboro;
+    margin-left: 660px;
+    margin-top: 30px;
+}
+.apps{
+    margin-left: 660px;
+    margin-top: 10px;
+    color: gainsboro;
+}
+.region{
+    margin-left: 860px;
+    margin-top: -100px;
+}
+.indonesia{
+    margin-left: 860px;
+    margin-top: 30px;
+    color: gainsboro;
+}
+.singapore{
+    margin-left: 860px;
+    margin-top: 10px ;
+    color: gainsboro;
+}
+.help{
+    margin-left: 1040px;
+    margin-top: -100px;
+}
+.center{
+    margin-left: 1040px;
+    margin-top: 30px; 
+    color: gainsboro;
+}
+.contact{
+    margin-left: 1040px;
+    color: gainsboro;
+    margin-top: 10px;
+}
